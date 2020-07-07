@@ -1,5 +1,1 @@
-﻿ Create todo
- Get all todos
- Get a specific todo
- Update a specific todo
- Delete a todo
+﻿A practice REST API written in C# using ASP.NET Core. 
